@@ -1,18 +1,17 @@
 # 🚗 Car Sales Performance Dashboard
 
 ## 📚 About Data
-Description.
-Description.
+This car sales performance dashboard provides in-depth analysis of YTD sales totaling $371.2M, with breakdowns by body style, color, dealer region, and company-wise trends. It includes weekly and geographic sales trends, average price fluctuations, and detailed transaction-level data to monitor market demand, customer behavior, and sales efficiency.
 
 #carsalesperformance
 
 ## 💡 Highlights
 
-- a
-- b
-- c
-- d
-- e
+- YTD Total Sales reached $371.2M, showing a strong growth of 23.59% compared to previous periods.
+- YTD Cars Sold totaled 13,260 units, with a 19.73% increase month-to-date sales of 1,920 cars.
+- SUVs lead sales by body style, followed by Sedans and Passenger cars, highlighting customer preference trends.
+- Chevrolet and Dodge dominate company-wise sales, contributing significantly with 7.3% and 6.74% of total YTD sales respectively.
+- Geographical sales distribution shows key hubs like Austin, Janesville, and Scottsdale driving higher sales volumes across regions.
 
 ## ✏️ Data Wrangling
 Conducted simple data wrangling and data cleaning:

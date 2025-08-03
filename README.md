@@ -3,8 +3,6 @@
 ## 📚 About Data
 This car sales performance dashboard provides in-depth analysis of YTD sales totaling $371.2M, with breakdowns by body style, color, dealer region, and company-wise trends. It includes weekly and geographic sales trends, average price fluctuations, and detailed transaction-level data to monitor market demand, customer behavior, and sales efficiency.
 
-#carsalesperformance
-
 ## 💡 Highlights
 
 - YTD Total Sales reached $371.2M, showing a strong growth of 23.59% compared to previous periods.
@@ -20,10 +18,6 @@ Conducted simple data wrangling and data cleaning:
 - Cleaned Valuation and Funding columns and cast as float
 - Exclude rows with "Unknown" Funding values
 - Explode Select Investors column into individual rows for categorical analysis
-
-📍 Jupyter script: Notebook
-
-📍 Clean Data: a.csv
 
 ## 📊 Visualization
 - Produced a 2-pager dashboard using Power BI.
